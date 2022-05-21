@@ -46,7 +46,7 @@ body 태그 내부에 작성
 
 * {% %}는 장고의 Template 언어이다.
 
-## 어플리케이션별로 static file 관리하기
+# 어플리케이션별로 static file 관리하기
 * 두 가지 방법이 있다.
 * 어플리케이션 폴더안에 static 폴더를 만드는 것까지는 동일
 
@@ -69,7 +69,7 @@ STATICFILES_DIRS = [
 ```
 #### 두 번째 방법을 주로 사용한다.
 
-## STATIC_ROOT
+# STATIC_ROOT
 * 개발할 때는 runserver를 통해 자동으로 static file들이 모이지만 배포할 때는 모으는 작업이 필요하다.
 * settings.py에 코드 추가
 ```
