@@ -5,7 +5,7 @@
 
 ### [Django](https://github.com/JunhyeongChoi/TIL/tree/main/Django) 
 
-* [venv](https://github.com/JunhyeongChoi/TIL/blob/main/Django/venv.md)
+* [가상환경](https://github.com/JunhyeongChoi/TIL/blob/main/Django/%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD.md)
 
 * [디자인 패턴](https://github.com/JunhyeongChoi/TIL/blob/main/Django/%EB%94%94%EC%9E%90%EC%9D%B8%20%ED%8C%A8%ED%84%B4.md)
 
