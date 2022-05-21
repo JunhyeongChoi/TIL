@@ -2,7 +2,7 @@
 
 > 하루동안 공부한 내용 정리
 
-### [Django](https://github.com/JunhyeongChoi/TIL/tree/main/Django) 
+## Django
 
 * [가상환경](https://github.com/JunhyeongChoi/TIL/blob/main/Django/%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD.md)
 
