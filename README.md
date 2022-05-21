@@ -1,7 +1,6 @@
 # Today I Learned
-```
-하루동안 공부한 내용 정리
-```
+
+> 하루동안 공부한 내용 정리
 
 ### [Django](https://github.com/JunhyeongChoi/TIL/tree/main/Django) 
 
