@@ -21,3 +21,5 @@
 * [CRUD](https://github.com/JunhyeongChoi/TIL/blob/main/Django/CRUD.md)
 
 * [DataBase](https://github.com/JunhyeongChoi/TIL/blob/main/Django/DataBase.md)
+
+* [Models](https://github.com/JunhyeongChoi/TIL/blob/main/Django/Models.md)
