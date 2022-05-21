@@ -17,8 +17,8 @@ def first(request):
 first 함수가 실행되면 first.html을 랜더링하고 화면에 띄운다.
 
 ## URL Mapping
-#### product라는 Application이 있을 때 /product/1, /product/2 ... 
-#### 이러한 URL을 project urls.py에 전부 적지 않고 효율적으로 관리할 수 있다.
+### product라는 Application이 있을 때 /product/1, /product/2 ... 
+### 이러한 URL을 project urls.py에 전부 적지 않고 효율적으로 관리할 수 있다.
 * product 어플리케이션안에도 urls.py를 만들고 설계한다. 설계는 위에 적은 내용과 동일
 * urls.py에서 include를 import (path, 뒤에 include만 적어주면 된다.)
 ```
