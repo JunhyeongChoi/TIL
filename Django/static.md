@@ -24,7 +24,7 @@ STATICFILES_DIRS = [
 
 * 일반적으로 static 폴더안에 바로 css 파일, 이미지 파일 등을 넣지 않고 css 폴더, js 폴더, image 폴더를 만들어 그 안에 저장한다.
 
-## HTML 파일에서 static 파일 불러오기
+# HTML 파일에서 static 파일 불러오기
 ```
 {% load static %}
 ```
