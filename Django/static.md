@@ -22,6 +22,8 @@ STATICFILES_DIRS = [
 
 * 위 코드와 같이 적으면 프로젝트 폴더 바로 하위에 static 폴더에서 staticfile들을 관리한다.
 
+* 폴더명은 static으로 하지 않으면 장고가 감지를 못할 수 있다.
+
 * 일반적으로 static 폴더안에 바로 css 파일, 이미지 파일 등을 넣지 않고 css 폴더, js 폴더, image 폴더를 만들어 그 안에 저장한다.
 
 # HTML 파일에서 static 파일 불러오기
