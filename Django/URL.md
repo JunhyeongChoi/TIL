@@ -14,7 +14,8 @@ ex)
 def first(request):
     return render(request, 'first.html')
 ```
-first 함수가 실행되면 first.html을 랜더링하고 화면에 띄운다.
+first 함수가 실행되면 first.html을 랜더링하고 화면에 띄운다.<br>
+first.html은 templates 폴더를 만들고 그 안에 정의한다.
 
 ## URL Mapping
 ### product라는 Application이 있을 때 /product/1, /product/2 ... 
