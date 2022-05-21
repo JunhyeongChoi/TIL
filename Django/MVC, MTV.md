@@ -14,7 +14,7 @@
 
 * Controller - 내부 동작의 논리를 담당
 
-* M V C 세 가지를 기준으로 설계를 한다
+* M V C 세 가지 역할을 기준으로 설계를 한다
 
 ## MTV 배턴
 * Model == Model
