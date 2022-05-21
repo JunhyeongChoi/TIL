@@ -1,4 +1,4 @@
-## URL 기초 설계
+# URL 기초 설계
 * urls.py 내부 urlpatterns에 작성한다.
 
 * path 첫 번재 인자로는 이름, 두 번째 인자로는 함수를 적는다.
@@ -17,7 +17,7 @@ def first(request):
 first 함수가 실행되면 first.html을 랜더링하고 화면에 띄운다.<br>
 first.html은 Application 폴더안에 templates 폴더를 만들고 그 안에 정의한다.
 
-## URL Mapping
+# URL Mapping
 ### product라는 Application이 있을 때 /product/1, /product/2 ... 
 ### 이러한 URL을 project urls.py에 전부 적지 않고 효율적으로 관리할 수 있다.
 * product 어플리케이션안에도 urls.py를 만들고 설계한다. 설계는 위에 적은 내용과 동일
