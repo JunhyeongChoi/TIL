@@ -1,6 +1,6 @@
 # Template
 
-## Template 언어
+# Template 언어
 ```
 {% url 'url name' %}
 ```
@@ -15,7 +15,7 @@ urlpatters에 위와 같이 작성했다고 하고
 ```
 HTML 코드에 이렇게 작성한다면 about을 눌렀을 때 웹주소/about으로 이동된다.
 
-## Template 상속
+# Template 상속
 * HTML 파일을 여러 개 만들고 코드를 작성하다보면 각 HTML마다 꼭 들어가야 하는 코드가 있을 수 있다. 
 
 * HTML을 만들 때마다 그 코드를 쓰면 비효율적이므로 template의 상속의 개념을 사용한다.
