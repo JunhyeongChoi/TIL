@@ -67,8 +67,7 @@ STATICFILES_DIRS = [
     BASE_DIR / 'staticapp' / 'static'
 ]
 ```
-
-### 두 번째 방법을 주로 사용한다.
+#### 두 번째 방법을 주로 사용한다.
 
 ## STATIC_ROOT
 * 개발할 때는 runserver를 통해 자동으로 static file들이 모이지만 배포할 때는 모으는 작업이 필요하다.
