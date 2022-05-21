@@ -33,4 +33,4 @@ product.urls에
 ```
 path('1', views.first)
 ```
-를 적었다면 /product/1 로 이동했을 때 views.first 함수가 실행된다.
+ 적었다면 /product/1 로 이동했을 때 views.first 함수가 실행된다.
