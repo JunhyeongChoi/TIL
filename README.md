@@ -18,3 +18,5 @@
 * [bootstrap](https://github.com/JunhyeongChoi/TIL/blob/main/Django/bootstrap.md)
 
 * [template](https://github.com/JunhyeongChoi/TIL/blob/main/Django/template.md)
+
+* [CRUD](https://github.com/JunhyeongChoi/TIL/blob/main/Django/CRUD.md)
