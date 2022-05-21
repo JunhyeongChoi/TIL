@@ -38,3 +38,4 @@ HTML 코드에 이렇게 작성한다면 about을 눌렀을 때 웹주소/about�
 <h1>서로 다른 코드</h1>
 {% endblock %}
 ```
+* {% block content %} 에서 content는 다른 이름으로 변경 가능
