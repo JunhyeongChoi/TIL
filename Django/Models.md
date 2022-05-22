@@ -39,7 +39,7 @@ python manage.py migrate
 python manage.py makemigrations
 ```
 ### 초기화
-* 초기화는 위 코드 중 migrate를 사용한다.
+* 초기화는 migrate를 사용한다.
 ### 변경사항 반영
 * 변경사항을 반영할 때 migrate는 데이터베이스 변경사항을 담은 파일을 토대로 DB에 반영한다.
 * 그 변경사항을 담은 파일은 makemigrations를 통해 생성한다.
