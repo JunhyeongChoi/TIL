@@ -21,10 +21,10 @@ from django.db import models
 
 class Student(models.Model):
     studentNumber = models.IntegerField()
-    name = models.CharField()
+    name = models.CharField(max_length=200)
     picture = models.ImageField()
     classes = models.TextField()
-    date = models.DateTimeField()
+    date = models.DateTimeField(auto_now_add=True)
 ```
 ### 객체는 models.Model을 상속받아 장고의 모델 기능을 사용한다.
 ### 각 field들은 위 코드와 같이 타입을 명시해야한다.
@@ -43,3 +43,6 @@ python manage.py makemigrations
 * 변경사항을 반영할 때 migrate는 데이터베이스 변경사항을 담은 파일을 토대로 DB에 반영한다.
 * 그 변경사항을 담은 파일은 makemigrations를 통해 생성한다.
 * 따라서 makemigrations 명령어로 변경사항 파일을 생성하고 migrate 명령어로 변경사항을 테이블에 직접 반영한다.
+
+## 실습
+
