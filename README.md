@@ -3,6 +3,7 @@
 > 하루동안 공부한 내용 정리
 
 ## Django
+### [일단 만드는 Django](https://www.codelion.net/catalog/Q291cnNlTm9kZTpnZW55)
 
 * [가상환경](https://github.com/JunhyeongChoi/TIL/blob/main/Django/%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD.md)
 
