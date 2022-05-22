@@ -28,7 +28,7 @@ class Student(models.Model):
 ```
 ### 객체는 models.Model을 상속받아 장고의 모델 기능을 사용한다.
 ### 각 field들은 위 코드와 같이 타입을 명시해야한다.
-#### max_length=200은 글자수를 200으로 제한, auto_now_add=True는 현재 시각을 의미
+* max_length=200은 글자수를 200으로 제한, auto_now_add=True는 현재 시각을 의미
 
 ## Migration
 * 데이터베이스를 초기화해주거나 변경사항을 반영해 주는 일
