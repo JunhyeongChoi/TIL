@@ -24,6 +24,7 @@ class Student(models.Model):
     name = models.CharField()
     picture = models.ImageField()
     classes = models.TextField()
+    date = models.DateTimeField()
 ```
 ### 객체는 models.Model을 상속받아 장고의 모델 기능을 사용한다.
 ### 각 field들은 위 코드와 같이 타입을 명시해야한다.
