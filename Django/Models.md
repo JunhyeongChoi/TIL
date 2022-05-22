@@ -44,6 +44,3 @@ python manage.py makemigrations
 * 변경사항을 반영할 때 migrate는 데이터베이스 변경사항을 담은 파일을 토대로 DB에 반영한다.
 * 그 변경사항을 담은 파일은 makemigrations를 통해 생성한다.
 * 따라서 makemigrations 명령어로 변경사항 파일을 생성하고 migrate 명령어로 변경사항을 테이블에 직접 반영한다.
-
-## 실습
-
