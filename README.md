@@ -26,4 +26,8 @@
 
 # Django REST Framework
 
-* 
+* [웹 개발 기초 개념](https://github.com/JunhyeongChoi/TIL/blob/main/DRF/%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%20%EA%B8%B0%EC%B4%88%20%EA%B0%9C%EB%85%90.md)
+
+* [MTV 패턴](https://github.com/JunhyeongChoi/TIL/blob/main/DRF/MTV.md)
+
+* [DB, Query](https://github.com/JunhyeongChoi/TIL/blob/main/DRF/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%99%80%20%EC%BF%BC%EB%A6%AC.md)
